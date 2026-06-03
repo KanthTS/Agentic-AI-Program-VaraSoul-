@@ -1,4 +1,4 @@
-# 🚀 My Prompt Engineering Learning Journey
+# 🚀 My Agentic AI Program Learning Journey
 
 ## Week 1: Getting Started with Prompt Engineering
 
