@@ -1,140 +1,107 @@
-# 🎓 Claude 101 – Anthropic Academy
+# 🎓 Claude 101 Certification – Anthropic Academy
 
-## Course Overview
+## 📜 Certificate of Completion
+[certificate-dhm27knxau23-1781266240.pdf](https://github.com/user-attachments/files/28878879/certificate-dhm27knxau23-1781266240.pdf)
 
-I successfully completed **Claude 101**, a foundational learning program offered by Anthropic Academy. The course provides a comprehensive introduction to Claude, Anthropic's AI assistant, and demonstrates how to leverage its capabilities for productivity, research, software development, content creation, and workflow automation.
 
-The program focuses on practical applications of AI, teaching users how to interact effectively with Claude, organize knowledge, automate repetitive tasks, and integrate AI into professional workflows.
+I successfully completed the **Claude 101** course offered by Anthropic Academy, achieving **100% course completion (14/14 lessons completed)**.
 
----
-
-## Learning Objectives
-
-Throughout this course, I learned how to:
-
-* Understand Claude's core capabilities and use cases.
-* Design effective prompts to achieve accurate and high-quality outputs.
-* Create and manage Projects for organizing long-term work.
-* Build and share Artifacts for interactive content and collaboration.
-* Use Skills to automate repetitive workflows and standardize tasks.
-* Connect Claude with external data sources through Connectors.
-* Utilize Enterprise Search to retrieve organizational knowledge securely.
-* Perform in-depth investigations using Research Mode.
-* Improve software development workflows using Claude Code.
-* Apply AI responsibly and effectively in real-world scenarios.
+This course provided hands-on experience with Claude and covered essential concepts related to AI-assisted productivity, prompt engineering, knowledge management, research, workflow automation, and software development.
 
 ---
 
-## Key Topics Covered
+## 📚 Course Curriculum
 
-### 1. Introduction to Claude
+### 1. Course Overview
 
-* Overview of Claude and its capabilities.
-* Differences between AI assistants and traditional search engines.
-* Applications in business, education, software development, and research.
+* Introduction to the Claude ecosystem
+* Understanding course objectives and learning outcomes
 
-### 2. Prompt Engineering Fundamentals
+### 2. Meet Claude
 
-* Structuring effective prompts.
-* Setting context and expectations.
-* Defining tasks clearly.
-* Specifying constraints, formats, and output requirements.
-* Iterative refinement for improved responses.
+#### What is Claude?
 
-### 3. Claude Projects
+* Introduction to Claude as an AI assistant
+* Understanding Claude's capabilities and applications
 
-* Organizing conversations and resources.
-* Creating project-specific knowledge bases.
-* Maintaining long-term context across sessions.
-* Managing documents and reference materials efficiently.
+#### Your First Conversation with Claude
 
-### 4. Artifacts
+* Best practices for interacting with AI
+* Creating effective prompts
+* Building productive AI workflows
 
-* Generating interactive outputs.
-* Publishing and sharing artifacts.
-* Collaborating through reusable AI-generated content.
-* Remixing artifacts for customized use cases.
+#### Getting Better Results
 
-### 5. Skills
+* Prompt engineering fundamentals
+* Improving response quality through context and constraints
+* Iterative prompting techniques
 
-* Building reusable AI workflows.
-* Automating recurring tasks.
-* Creating standardized instructions.
-* Improving efficiency and consistency across projects.
+#### Claude Desktop App: Chat, Cowork, Code
 
-### 6. Connectors and Enterprise Search
-
-* Connecting Claude to organizational tools and platforms.
-* Accessing information securely using permission-based controls.
-* Retrieving relevant documents and knowledge efficiently.
-* Enhancing productivity through centralized information access.
-
-### 7. Research Mode
-
-* Conducting comprehensive research projects.
-* Gathering and synthesizing information from multiple sources.
-* Producing structured reports and insights.
-* Supporting strategic decision-making through evidence-based analysis.
-
-### 8. Claude Code
-
-* Navigating unfamiliar codebases.
-* Understanding software architecture.
-* Writing, debugging, and refactoring code.
-* Automating software development tasks.
-* Improving developer productivity using AI assistance.
+* Using Claude for everyday productivity
+* Collaboration workflows
+* AI-assisted software development
 
 ---
 
-## Practical Skills Acquired
+## 🗂️ Organizing Your Work and Knowledge
 
-### AI & Productivity
+### Introduction to Projects
 
-* Prompt Engineering
-* AI-Assisted Research
-* Knowledge Management
-* Workflow Optimization
-* Information Synthesis
+* Creating and managing projects
+* Organizing conversations and resources
+* Building project-specific knowledge bases
 
-### Collaboration & Organization
+### Creating with Artifacts
 
-* Project Management with AI
-* Artifact Creation & Sharing
-* Enterprise Knowledge Retrieval
-* Context Management
+* Generating interactive content
+* Publishing and sharing artifacts
+* Reusing and remixing AI-generated work
 
-### Software Development
+### Working with Skills
 
-* AI-Assisted Coding
-* Code Analysis
-* Debugging Support
-* Development Workflow Automation
+* Building reusable workflows
+* Automating repetitive tasks
+* Standardizing AI instructions for consistency
 
 ---
 
-## Outcomes
+## 🔗 Expanding Claude's Reach
 
-By completing this course, I gained practical experience in:
+### Connecting Your Tools
 
-✅ Designing effective prompts for AI systems
+* Integrating Claude with external platforms
+* Using connectors securely
+* Permission-based data access
 
-✅ Organizing and managing AI-powered projects
+### Enterprise Search
 
-✅ Conducting detailed research using AI tools
+* Retrieving information across connected knowledge sources
+* Accessing organizational knowledge efficiently
 
-✅ Automating workflows with reusable skills
+### Research Mode for Deep Dives
 
-✅ Utilizing enterprise knowledge securely
-
-✅ Improving software development productivity
-
-✅ Applying AI solutions to real-world business and technical challenges
-
----
-
-## Certificate
-
-<img width="1892" height="798" alt="image" src="https://github.com/user-attachments/assets/07561ca7-aa6c-43cd-8029-6951f354c93b" />
+* Conducting comprehensive research
+* Synthesizing information from multiple sources
+* Generating detailed reports and insights
 
 ---
 
+## 🚀 Putting It All Together
+
+### Claude in Action: Use Cases by Role
+
+* Business productivity
+* Content creation
+* Research and analysis
+* Software engineering
+* Knowledge management
+
+
+
+## 🎓 Certification Details
+
+<img width="487" height="208" alt="Screenshot 2026-06-12 at 5 49 44 PM" src="https://github.com/user-attachments/assets/8da10ce2-97ca-4957-b73c-53c0b9fb1923" />
+
+
+> Continuous learning in AI helps build the skills needed to create smarter solutions, improve productivity, and solve real-world problems.
