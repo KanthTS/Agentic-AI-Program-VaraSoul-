@@ -1,7 +1,7 @@
 # 🎓 Claude 101 Certification – Anthropic Academy
 
 ## 📜 Certificate of Completion
-[certificate-dhm27knxau23-1781266240.pdf](https://github.com/user-attachments/files/28878879/certificate-dhm27knxau23-1781266240.pdf)
+<img width="1536" height="1152" alt="image" src="https://github.com/user-attachments/assets/90a6a7ad-329e-4afb-ad77-1f87e561765d" />
 
 
 I successfully completed the **Claude 101** course offered by Anthropic Academy, achieving **100% course completion (14/14 lessons completed)**.
