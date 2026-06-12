@@ -134,23 +134,7 @@ By completing this course, I gained practical experience in:
 
 ## Certificate
 
-**Course:** Claude 101
-
-**Provider:** Anthropic Academy
-
-**Focus Areas:** AI Productivity, Prompt Engineering, Research, Knowledge Management, Workflow Automation, and Software Development Assistance.
+<img width="1892" height="798" alt="image" src="https://github.com/user-attachments/assets/07561ca7-aa6c-43cd-8029-6951f354c93b" />
 
 ---
-
-## Technologies & Concepts
-
-* Artificial Intelligence (AI)
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Knowledge Retrieval
-* Research Automation
-* Workflow Automation
-* Enterprise Search
-* AI-Assisted Software Development
-* Human-AI Collaboration
 
