@@ -382,16 +382,5 @@ Example Command
 
 ---
 
-# 📜 Certificate
-
-Completed the **Claude Platform 101** course provided by Anthropic.
-
----
-
-# 🙌 Acknowledgements
-
-Special thanks to **Anthropic** for providing this learning experience and helping developers understand how to build production-ready AI applications with the Claude Developer Platform.
-
----
 
 ## ⭐ If you found this repository useful, consider giving it a Star!
